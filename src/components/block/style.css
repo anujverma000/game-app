@@ -1,0 +1,12 @@
+
+.block {
+  width: 100px;
+  height: 100px;
+  background-color: #48abd8;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.block.active {
+  background-color: #fe4342;
+}
