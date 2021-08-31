@@ -1,0 +1,35 @@
+.info-icon{
+  width: 16px;
+  height: 16px;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  margin: 7px 16px 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  font-weight: 900;
+}
+.intro-header {
+  position: relative;
+  border-bottom: 1px solid #a89e9e;
+  margin-bottom: 12px;
+}
+.close-icon{
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 24px;
+  font-weight: 200;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 1px solid #a89e9e;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 4px;
+}
