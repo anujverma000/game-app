@@ -1,4 +1,4 @@
-leimport React from 'react'
+import React from 'react'
 import { Block } from '../block'
 import './style.css'
 
